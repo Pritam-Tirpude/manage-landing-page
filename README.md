@@ -40,7 +40,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Manage Landing Page Solution](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/html5-css3-sass-flex-javascript-c81lyLu2z)
+- Solution URL: [Manage Landing Page Solution](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/semantic-html-css3-sass-javascript-and-for-slider-i-used-swiper-js-gLHeslHy0)
 - Live Site URL: [Live Site](https://manage-landing-master.netlify.app/)
 
 ## My process
